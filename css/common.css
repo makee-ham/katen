@@ -1238,9 +1238,10 @@ header {
 /* bottomSection */
 /* images */
 #bottomSection {
-	width : 1116px;
+	width : 1140px;
 	height : 194px;
 	margin : 0 auto 32px;
+	text-align : center;
 }
 .imgAs {
 	width : 182px;
